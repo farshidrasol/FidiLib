@@ -7,7 +7,7 @@
 //
 
 #import "FidiViewController.h"
-
+#import <ReplaceMe.m>
 @interface FidiViewController ()
 
 @end

@@ -1,0 +1,16 @@
+PODS:
+  - FidiLibrary (0.1.0)
+
+DEPENDENCIES:
+  - FidiLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  FidiLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FidiLibrary: 6763ea80e599fddbb4daa03a5014c7f215b6ab1d
+
+PODFILE CHECKSUM: 333da130bb43c3978db9905d93b5c1935cf1534b
+
+COCOAPODS: 1.6.1

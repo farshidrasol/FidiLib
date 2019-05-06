@@ -3,7 +3,7 @@ use_frameworks!
 platform :ios, '8.0'
 
 target 'FidiLibrary_Example' do
-  pod 'FidiLibrary', :path => '../'
+  pod 'FidiLibrary'
 
   target 'FidiLibrary_Tests' do
     inherit! :search_paths
